@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\programs\\unity projects\\tycoon_test_task\\assets\\scripts\\independed scripts\\randomizeanimationstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\independed scripts\\randomizeanimationstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|D:\\programs\\Unity Projects\\Tycoon_Test_Task\\assets\\scripts\\crafting\\craftingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\crafting\\craftingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|D:\\programs\\Unity Projects\\Tycoon_Test_Task\\assets\\scripts\\core\\materialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\materialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|D:\\programs\\Unity Projects\\Tycoon_Test_Task\\assets\\scripts\\core\\buildingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\buildingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|D:\\programs\\Unity Projects\\Tycoon_Test_Task\\assets\\scripts\\crafting\\craftingbuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\crafting\\craftingbuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|D:\\programs\\Unity Projects\\Tycoon_Test_Task\\assets\\scripts\\buildingsystem\\generativebuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buildingsystem\\generativebuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|D:\\programs\\Unity Projects\\Tycoon_Test_Task\\assets\\ui\\uibuttonevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\uibuttonevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|D:\\programs\\Unity Projects\\Tycoon_Test_Task\\assets\\scripts\\independed scripts\\activestatefliper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\independed scripts\\activestatefliper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|D:\\programs\\Unity Projects\\Tycoon_Test_Task\\assets\\scripts\\crafting\\craftingrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\crafting\\craftingrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|D:\\programs\\Unity Projects\\Tycoon_Test_Task\\assets\\scripts\\saves\\datasaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saves\\datasaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|D:\\programs\\Unity Projects\\Tycoon_Test_Task\\assets\\scripts\\saves\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saves\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|D:\\programs\\Unity Projects\\Tycoon_Test_Task\\assets\\scripts\\cameramovement\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramovement\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|D:\\programs\\Unity Projects\\Tycoon_Test_Task\\assets\\scripts\\cameramovement\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AF491C-6F02-88AB-C2FF-8044B2C21757}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramovement\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandomizeAnimationStart.cs",
+              "DocumentMoniker": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\Independed scripts\\RandomizeAnimationStart.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Independed scripts\\RandomizeAnimationStart.cs",
+              "ToolTip": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\Independed scripts\\RandomizeAnimationStart.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Independed scripts\\RandomizeAnimationStart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:10:34.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Region.cs",
+              "DocumentMoniker": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\CameraMovement\\Region.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraMovement\\Region.cs",
+              "ToolTip": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\CameraMovement\\Region.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraMovement\\Region.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:45:50.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CameraMovement.cs",
+              "DocumentMoniker": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\CameraMovement\\CameraMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraMovement\\CameraMovement.cs",
+              "ToolTip": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\CameraMovement\\CameraMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraMovement\\CameraMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:46:04.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\Saves\\SaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Saves\\SaveManager.cs",
+              "ToolTip": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\Saves\\SaveManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Saves\\SaveManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:15:58.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataSaver.cs",
+              "DocumentMoniker": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\Saves\\DataSaver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Saves\\DataSaver.cs",
+              "ToolTip": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\Saves\\DataSaver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Saves\\DataSaver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:15:56.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CraftingRecipe.cs",
+              "DocumentMoniker": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\Crafting\\CraftingRecipe.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Crafting\\CraftingRecipe.cs",
+              "ToolTip": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\Crafting\\CraftingRecipe.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Crafting\\CraftingRecipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:13:03.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActiveStateFliper.cs",
+              "DocumentMoniker": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\Independed scripts\\ActiveStateFliper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Independed scripts\\ActiveStateFliper.cs",
+              "ToolTip": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\Independed scripts\\ActiveStateFliper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Independed scripts\\ActiveStateFliper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:07:12.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIButtonEvents.cs",
+              "DocumentMoniker": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\UI\\UIButtonEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\UIButtonEvents.cs",
+              "ToolTip": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\UI\\UIButtonEvents.cs",
+              "RelativeToolTip": "Assets\\UI\\UIButtonEvents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:04:53.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenerativeBuilding.cs",
+              "DocumentMoniker": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\BuildingSystem\\GenerativeBuilding.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuildingSystem\\GenerativeBuilding.cs",
+              "ToolTip": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\BuildingSystem\\GenerativeBuilding.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuildingSystem\\GenerativeBuilding.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:23:44.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CraftingBuilding.cs",
+              "DocumentMoniker": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\Crafting\\CraftingBuilding.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Crafting\\CraftingBuilding.cs",
+              "ToolTip": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\Crafting\\CraftingBuilding.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Crafting\\CraftingBuilding.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:21:37.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuildingSpot.cs",
+              "DocumentMoniker": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\Core\\BuildingSpot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\BuildingSpot.cs",
+              "ToolTip": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\Core\\BuildingSpot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\BuildingSpot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:42:21.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaterialManager.cs",
+              "DocumentMoniker": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\Core\\MaterialManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\MaterialManager.cs",
+              "ToolTip": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\Core\\MaterialManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\MaterialManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:38:51.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CraftingManager.cs",
+              "DocumentMoniker": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\Crafting\\CraftingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Crafting\\CraftingManager.cs",
+              "ToolTip": "D:\\programs\\Unity Projects\\Tycoon_Test_Task\\Assets\\Scripts\\Crafting\\CraftingManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Crafting\\CraftingManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:10:56.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
