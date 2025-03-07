@@ -56,3 +56,4 @@ A small demonstration map was created to showcase all implemented mechanics.
 
 ## Additional Info
 During development, I focused on completing the tasks without unnecessary mechanics to avoid wasting time on unexpected redesigns. I aimed to complete all assignments as efficiently as possible while maintaining clean code and functional mechanics.
+Overall, the project took me 2 days to complete.
