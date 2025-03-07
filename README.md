@@ -5,6 +5,7 @@ Theme: Civilization Building
 ### UI/UX
 
 - Main menu
+- Basic UI
 - UI crafting system
 - Tooltip system
 
