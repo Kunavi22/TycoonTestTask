@@ -55,5 +55,6 @@ A small demonstration map was created to showcase all implemented mechanics.
 ![image](https://github.com/user-attachments/assets/f3059da6-fb09-4643-953f-83e66e0a005d)
 
 ## Additional Info
-During development, I focused on completing the tasks without unnecessary mechanics to avoid wasting time on unexpected redesigns. I aimed to complete all assignments as efficiently as possible while maintaining clean code and functional mechanics.
+During development, I focused on completing the tasks without extra mechanics to avoid wasting time on unexpected redesigns. I aimed to complete all assignments as efficiently as possible while maintaining clean code and functional mechanics.
+
 Overall, the project took me 2 days to complete.
